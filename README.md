@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayur!
 - 👀 I’m interested in solving business cases
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on topics which adds value to businesses
+- 💞️ I’m looking to collaborate on topics which add value to businesses
 - 📫 My E-mail ID is mdushetwar@gmail.com
 
 <!---
